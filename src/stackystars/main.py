@@ -9,7 +9,7 @@ from tqdm import tqdm
 @click.group()
 @click.version_option()
 def cli():
-    """StaryStacks
+    """StackyStars
 
     This command line tool allows you to stack & analyze astronomy images.
     """
